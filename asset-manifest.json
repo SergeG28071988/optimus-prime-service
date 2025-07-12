@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/optimus-prime-service/static/css/main.79716744.css",
+    "main.js": "/optimus-prime-service/static/js/main.f1a07209.js",
+    "static/media/logo.png": "/optimus-prime-service/static/media/logo.c3ada1ba3ca47be452a4.png",
+    "static/media/background-about-us_1.jpg": "/optimus-prime-service/static/media/background-about-us_1.03071a3a5bca5729c8a1.jpg",
+    "static/media/Optimus.png": "/optimus-prime-service/static/media/Optimus.d6f4d85b02b8ee3ed3e9.png",
+    "static/media/car.png": "/optimus-prime-service/static/media/car.bc8a61188b150761b79f.png",
+    "static/media/master1.png": "/optimus-prime-service/static/media/master1.db470602ed076f5a3ce0.png",
+    "static/media/master2.png": "/optimus-prime-service/static/media/master2.c0f74f3f35c49717afe0.png",
+    "static/media/master3.png": "/optimus-prime-service/static/media/master3.32741aeeb4dd9ef97d7c.png",
+    "static/media/brake_pads.png": "/optimus-prime-service/static/media/brake_pads.a2d1f67d89515fcb7bb0.png",
+    "static/media/electro.jpg": "/optimus-prime-service/static/media/electro.55e22505e2643aeec3c2.jpg",
+    "static/media/wrench1.png": "/optimus-prime-service/static/media/wrench1.b048e10df1e78763f5c2.png",
+    "static/media/wrench2.png": "/optimus-prime-service/static/media/wrench2.c888d8a2f55b2c6949fe.png",
+    "static/media/wrench3.png": "/optimus-prime-service/static/media/wrench3.5b59dc98bb2484b054f9.png",
+    "static/media/car_service_master.png": "/optimus-prime-service/static/media/car_service_master.bcb9f1e87234c9a26d86.png",
+    "static/media/diag.jpg": "/optimus-prime-service/static/media/diag.b708639c2c6fea28cfcf.jpg",
+    "static/media/Roboto-Light.ttf": "/optimus-prime-service/static/media/Roboto-Light.8f977c8591803dd0978f.ttf",
+    "static/media/Steppe-Book.ttf": "/optimus-prime-service/static/media/Steppe-Book.8d5a37823677d46ee02e.ttf",
+    "static/media/Steppe-ExtraBold.ttf": "/optimus-prime-service/static/media/Steppe-ExtraBold.641223a49d5711831be1.ttf",
+    "static/media/repair.jpg": "/optimus-prime-service/static/media/repair.8e2f4f3fffffa995f06f.jpg",
+    "static/media/generator_starter.jpg": "/optimus-prime-service/static/media/generator_starter.4889593392ecbcfe1211.jpg",
+    "static/media/wiring_repair.jpg": "/optimus-prime-service/static/media/wiring_repair.20374ecac8bd99c8d67a.jpg",
+    "static/media/parking_system_install.jpg": "/optimus-prime-service/static/media/parking_system_install.a792738e1c4881b96479.jpg",
+    "static/media/can_bus_config.jpg": "/optimus-prime-service/static/media/can_bus_config.bacb4d7347f77a27800f.jpg",
+    "static/media/car_alarm_installation.jpg": "/optimus-prime-service/static/media/car_alarm_installation.c7ac2b4694040f187236.jpg",
+    "static/media/to.jpg": "/optimus-prime-service/static/media/to.9d18527ca6e5dbc21d46.jpg",
+    "static/media/client2.png": "/optimus-prime-service/static/media/client2.10d41a7c06c51abbe84e.png",
+    "static/media/client3.png": "/optimus-prime-service/static/media/client3.54d1934a6f6263cb8c70.png",
+    "static/media/client1.png": "/optimus-prime-service/static/media/client1.2d1b079d25525a7a4a2c.png",
+    "index.html": "/optimus-prime-service/index.html",
+    "main.79716744.css.map": "/optimus-prime-service/static/css/main.79716744.css.map",
+    "main.f1a07209.js.map": "/optimus-prime-service/static/js/main.f1a07209.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79716744.css",
+    "static/js/main.f1a07209.js"
+  ]
+}
